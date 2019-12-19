@@ -8,15 +8,15 @@ Database using mongodb
 
 ```js
 {
-  _id: '2c39400000cfff849689485d',
-firstname:'Kanye',
-lastname:'West'
-},
-address:{
+     _id: '2c39400000cfff849689485d',
+    firstname:'Kanye',
+    lastname:'West',
+    address:{
     street:'Siping Rd',
     City:'Shanghai',
     State:'SH',
     zip:'1239'
+    }
 }
 ```
 
